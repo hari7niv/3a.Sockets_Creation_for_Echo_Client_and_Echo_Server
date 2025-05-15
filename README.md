@@ -31,7 +31,6 @@ while True:
     print("Server : ",s.recv(1024).decode())
 ```
 ## OUPUT
-![image](https://github.com/user-attachments/assets/119a0816-7868-437f-985f-2e632cccfcab)
 
 ![image](https://github.com/user-attachments/assets/09e25564-b4bb-4b2a-8339-97bc81a84aa7)
 
